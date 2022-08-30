@@ -1,0 +1,15 @@
+/*Style.css written by kinora sen*/
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500&display=swap');
+
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: rgb(241, 241, 241);
+}
+#highlight{
+    color: rgb(255, 75, 75);
+}
+.title{
+    margin-left: 10px;
+    font-size: 30px;
+}
